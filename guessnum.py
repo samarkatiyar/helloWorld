@@ -1,5 +1,5 @@
 import random
-
+# Samar learned how to use random function.
 def game_round(bullseye):
     guessnum = int(input("Enter a number: "))
     numimportant = guessnum - bullseye
