@@ -4,71 +4,95 @@
         "Question": "Which direction does sun rises from?",
         "Choices": 
         {
-            "A": "North",
-            "B": "South",
-            "C": "East",
-            "D": "West"
+            "1": "North",
+            "2": "South",
+            "3": "East",
+            "4": "West"
         },
-        "Answer": "C"
+        "Answer": "3"
     },
     "2":
     {
         "Question": "Which is the second most populus country?",
         "Choices": 
         {
-            "A": "China",
-            "B": "USA",
-            "C": "India",
-            "D": "Mexico"
+            "1": "China",
+            "2": "USA",
+            "3": "India",
+            "4": "Mexico"
         },
-        "Answer": "C"
+        "Answer": "3"
     },
     "3":
     {
         "Question": "Which Greek Mathematician and Philosopher approximated Pi?",
         "Choices": 
         {
-            "A": "Archmedes",
-            "B": "Leibniz",
-            "C": "Arybhatta",
-            "D": "Newton"
+            "1": "Archmedes",
+            "2": "Leibniz",
+            "3": "Arybhatta",
+            "4": "Newton"
         },
-        "Answer": "A"
+        "Answer": "1"
     },
     "4":
     {
         "Question": "When did World War II End?",
         "Choices": 
         {
-            "A": "1942",
-            "B": "1944",
-            "C": "1945",
-            "D": "1946"
+            "1": "1942",
+            "2": "1944",
+            "3": "1945",
+            "4": "1946"
         },
-        "Answer": "C"
+        "Answer": "3"
     },
     "5":
     {
         "Question": "Who invented Calculus?",
         "Choices": 
         {
-            "A": "Newton",
-            "B": "Einstien",
-            "C": "Braun",
-            "D": "Galileo"
+            "1": "Newton",
+            "2": "Einstien",
+            "3": "Braun",
+            "4": "Galileo"
         },
-        "Answer": "A"
+        "Answer": "1"
     },
     "6":
     {
         "Question": "Who discovered North America?",
         "Choices": 
         {
-            "A": "Nelson",
-            "B": "Colombus",
-            "C": "Christi",
-            "D": "Thomas Cook"
+            "1": "Nelson",
+            "2": "Colombus",
+            "3": "Christi",
+            "4": "Thomas Cook"
         },
-        "Answer": "B"
+        "Answer": "2"
+    },
+    "7":
+    {
+        "Question": "Which country got bombed 2 times with a nuclear bomb",
+        "Choices": 
+        {
+            "1": "Russia",
+            "2": "Mexico",
+            "3": "Japan",
+            "4": "Usa"
+        },
+        "Answer": "3"
+    },
+    "8":
+    {
+        "Question": "Which country made the rocket Sputnik?",
+        "Choices": 
+        {
+            "1": "Russia",
+            "2": "Usa",
+            "3": "Japan",
+            "4": "England"
+        },
+        "Answer": "1"
     }
 }
