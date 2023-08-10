@@ -1,0 +1,74 @@
+{
+    "1":
+    {
+        "Question": "Which direction does sun rises from?",
+        "Choices": 
+        {
+            "A": "North",
+            "B": "South",
+            "C": "East",
+            "D": "West"
+        },
+        "Answer": "C"
+    },
+    "2":
+    {
+        "Question": "Which is the second most populus country?",
+        "Choices": 
+        {
+            "A": "China",
+            "B": "USA",
+            "C": "India",
+            "D": "Mexico"
+        },
+        "Answer": "C"
+    },
+    "3":
+    {
+        "Question": "Which Greek Mathematician and Philosopher approximated Pi?",
+        "Choices": 
+        {
+            "A": "Archmedes",
+            "B": "Leibniz",
+            "C": "Arybhatta",
+            "D": "Newton"
+        },
+        "Answer": "A"
+    },
+    "4":
+    {
+        "Question": "When did World War II End?",
+        "Choices": 
+        {
+            "A": "1942",
+            "B": "1944",
+            "C": "1945",
+            "D": "1946"
+        },
+        "Answer": "C"
+    },
+    "5":
+    {
+        "Question": "Who invented Calculus?",
+        "Choices": 
+        {
+            "A": "Newton",
+            "B": "Einstien",
+            "C": "Braun",
+            "D": "Galileo"
+        },
+        "Answer": "A"
+    },
+    "6":
+    {
+        "Question": "Who discovered North America?",
+        "Choices": 
+        {
+            "A": "Nelson",
+            "B": "Colombus",
+            "C": "Christi",
+            "D": "Thomas Cook"
+        },
+        "Answer": "B"
+    }
+}
