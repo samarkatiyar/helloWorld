@@ -10,7 +10,7 @@ def primes_in_range(start,end):
            prime_num_list.append(i)
     return prime_num_list
 
-prime_list = primes_in_range(1900000,1\901000)
+prime_list = primes_in_range(1900000,1901000)
 print(prime_list)
 print(len(prime_list))
 exit(0)    
